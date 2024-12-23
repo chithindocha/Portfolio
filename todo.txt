@@ -1,0 +1,2 @@
+[  ] star background --> aceternity ui component ( check the figma source for implementation )
+[  ]
