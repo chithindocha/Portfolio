@@ -1,4 +1,5 @@
 import { FaGithub, FaLinkedin, FaCode } from "react-icons/fa";
+import { SiGeeksforgeeks } from "react-icons/si";
 import React from "react";
 import Link from "next/link";
 
@@ -18,6 +19,11 @@ const NavBar = () => {
             name: "LeetCode",
             url: "https://leetcode.com/u/chithindocha1393/",
             icon: <FaCode />,
+        },
+        {
+            name: "GFG",
+            url: "https://www.geeksforgeeks.org/user/chithindocha24/",
+            icon: <SiGeeksforgeeks />,
         },
     ];
 
