@@ -26,7 +26,7 @@ const HeroSection = () => {
           <ContactButton content="Contact Me"/>
         </Link>
         <Link
-          href={"https://drive.google.com/file/d/1_oZvcnZvNggWFuFaOmda7kC5lvsP--aa/view?usp=drive_link"}
+          href={"https://drive.google.com/file/d/1ZMrS_eMsH4fYcD8mIYNABetdzb-Lh1E3/view?usp=drive_link"}
           className=""
         >
           <ContactButton content="Resume"/>
